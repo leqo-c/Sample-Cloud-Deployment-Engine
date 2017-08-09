@@ -1,0 +1,6 @@
+/home/leo/RiderProjects/PA_Project/PA_Project/bin/Debug/PA_Project.exe
+/home/leo/RiderProjects/PA_Project/PA_Project/bin/Debug/PA_Project.pdb
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.csprojResolveAssemblyReference.cache
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.csproj.CoreCompileInputs.cache
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.exe
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.pdb

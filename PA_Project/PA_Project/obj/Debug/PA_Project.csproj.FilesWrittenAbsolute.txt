@@ -1,0 +1,6 @@
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.exe
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.pdb
+/home/leo/RiderProjects/PA_Project/PA_Project/bin/Debug/PA_Project.exe.mdb
+/home/leo/RiderProjects/PA_Project/PA_Project/bin/Debug/PA_Project.exe
+/home/leo/RiderProjects/PA_Project/PA_Project/obj/Debug/PA_Project.exe.mdb

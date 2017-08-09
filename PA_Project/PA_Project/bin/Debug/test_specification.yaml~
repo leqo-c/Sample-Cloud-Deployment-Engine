@@ -1,0 +1,39 @@
+services:
+ moodle:
+  units: 1
+ database:
+  units: 1
+
+agents:
+ moodle:
+  class: Moodle
+  events:
+
+   init:
+    handler: install
+
+   connect:
+    after: [init, db_available]
+    handler: connect
+
+   start:
+    after: [connect]
+    handler: start
+
+  requires: [db]
+
+ database:
+  class: Mysql
+  events:
+
+   init:
+    handler: install
+
+   start:
+    after: [init]
+    handler: start
+
+  provides: [db]
+
+relations:
+ - [moodle: db_available, database: init]
